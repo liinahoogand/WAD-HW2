@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "createTime": "2005-12-07T00:00:00Z",
+        "authorName": "User1",
+        "content": "TARTU <3",
+        "image": "tartu.jpg"
+    },
+    {
+        "id": 2,
+        "createTime": "2005-06-12T00:00:00Z",
+        "authorName": "User2",
+        "content": "Party tonight at my place! 11PM SHARP. Be there or be square!",
+        "image": null
+    },
+    {
+        "id": 3,
+        "createTime": "2005-11-27T00:00:00Z",
+        "authorName": "User3",
+        "content": "Where did his tail go? haha XD",
+        "image": "cat.jpg"
+    },
+    {
+        "id": 4,
+        "createTime": "2005-03-29T00:00:00Z",
+        "authorName": "User4",
+        "content": "RIP Shirley Chisholm! :(",
+        "image": null
+    },
+    {
+        "id": 5,
+        "createTime": "2005-08-11T00:00:00Z",
+        "authorName": "User5",
+        "content": "Just had the best burger ever lol XD",
+        "image": null
+    },
+    {
+        "id": 6,
+        "createTime": "2005-11-15T00:00:00Z",
+        "authorName": "User1",
+        "content": "Exploring the beautiful landscapes of Estonia!",
+        "image": "estonia.jpg"
+    },
+    {
+        "id": 7,
+        "createTime": "2005-07-24T00:00:00Z",
+        "authorName": "User2",
+        "content": "Chillin' with friends and making unforgettable memories! #SquadGoals",
+        "image": null
+    },
+    {
+        "id": 8,
+        "createTime": "2005-09-08T00:00:00Z",
+        "authorName": "User3",
+        "content": "Rocking out at the coolest concert in town!",
+        "image": null
+    },
+    {
+        "id": 9,
+        "createTime": "2005-04-19T00:00:00Z",
+        "authorName": "User4",
+        "content": "Lazy Sunday vibes! Netflix and snacks all day. #ChillMode",
+        "image": null
+    },
+    {
+        "id": 10,
+        "createTime": "2005-06-06T00:00:00Z",
+        "authorName": "User5",
+        "content": "Had a blast at the waterpark today! Splish splash!",
+        "image": null
+    }
+]
+
+  
