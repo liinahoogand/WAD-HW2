@@ -61,3 +61,15 @@ document.addEventListener("DOMContentLoaded", function () {
         });
 });
 
+const profilePic = document.getElementById("profile-pic");
+const dropdownMenu = document.getElementById("dropdown-menu");
+
+profilePic.addEventListener("click", function() {
+    // Toggle the display of the dropdown menu
+    if (dropdownMenu.style.display === "block") {
+        dropdownMenu.style.display = "none";
+    } else {
+        dropdownMenu.style.display = "block";
+    }
+});
+
